@@ -1,6 +1,4 @@
-![logo](./logos/barrel_32.png)Barr3l
-=======  
-![logo](./logos/barrel_squirt_r34.png)How to use
+제목줄
 =======  
 이루어져라! 모두의 꿈!
 -----------
