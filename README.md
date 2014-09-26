@@ -1,6 +1,6 @@
-<img src="./test_logo.png" align="middle">제목</img>
+제목
 =======  
-부제목
+![logo](./logos/barrel_32.png)Barrel
 -----------
 
 h3. 전통적인 HTML 타이틀
