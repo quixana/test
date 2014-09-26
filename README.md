@@ -1,4 +1,4 @@
-![Test Logo](./test_logo.png) <div align="middle">제목</div>
+![Test Logo](./test_logo.png) <img align="middle">제목</div>
 =======  
 부제목
 -----------
