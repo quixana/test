@@ -17,7 +17,7 @@ h3. 전통적인 HTML 타이틀
 [링크](http://example.com) 
  <<<   ] 와 ( 사이에 공백은 없어야 합니다. >>>
 
-![Logo](https://raw.githubusercontent.com/quixana/test/master/test_logo.png)
+![Test Logo](./test_logo.png)
 
 구매 목록:
 
