@@ -1,6 +1,6 @@
-![logo](./logos/barrel_32.png)제목
+![logo](./logos/barrel_32.png)Barr3l
 =======  
-![logo](./logos/barrel_32.png)Barrel
+![logo](./logos/barrel_32.png)Barr3l
 -----------
 
 h3. 전통적인 HTML 타이틀
