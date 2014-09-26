@@ -1,6 +1,6 @@
-<img src="./test_logo.png" align="middle">제목</img>
+![logo](./logos/barrel_32.png)Barr3l
 =======  
-부제목
+이루어져라! 모두의 꿈!
 -----------
 
 h3. 전통적인 HTML 타이틀
