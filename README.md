@@ -32,3 +32,9 @@ Numbered list:
  
 The rain---not the reign---in
 Spain.
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
