@@ -1,6 +1,6 @@
 ![logo](./logos/barrel_squirt_r.png)Barr3l
 =======  
-![logo](./logos/barrel_squirt_r34.png)Turn the tap on
+![logo](./logos/barrel_squirt_r34.png)Let's turn the tap on
 =======  
 이루어져라! 모두의 꿈!
 -----------
