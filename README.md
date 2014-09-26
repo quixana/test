@@ -14,8 +14,8 @@ h3. 전통적인 HTML 타이틀
 글 속성으로는 *이탤릭*,
 **볼드**, `고정너비` 등이 있습니다.
 
-[링크](http://example.com).
-<<<   ] 와 ( 사이에 공백은 없어야 합니다. >>>
+[링크](http://example.com) 
+ <<<   ] 와 ( 사이에 공백은 없어야 합니다. >>>
 
 구매 목록:
 
@@ -34,14 +34,14 @@ h3. 전통적인 HTML 타이틀
 
 ```ruby
 require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
+markdown = Redcarpet.new("헬로우 월드!")
 puts markdown.to_html
 ```
 
-| Name | 설명          |
+| 이름 | 설명          |
 | ------------- | ----------- |
-| Help      | ~~Display the~~ help window.|
-| Close     | _Closes_ a window     |
+| Help      | 도움말 창 ~~을 보여줍니다.~~|
+| Close     | 창을 _닫습니다._ |
 
 | 좌측 정렬     | 중앙 정렬         | 우측 정렬 |
 | :------------ |:-----------------:| ---------:|
