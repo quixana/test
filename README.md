@@ -1,6 +1,6 @@
-![logo](./logos/barrel_32.png)Barr3l
+![logo](./logos/barrel_32.png) Barr3l
 =======  
-![logo](./logos/barrel_32.png)Barr3l
+이루어져라! 모두의 꿈!
 -----------
 
 h3. 전통적인 HTML 타이틀
